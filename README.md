@@ -1,8 +1,8 @@
 ## Hi, I'm Kathlin Liege Krauczuk Froelich. Welcome to my professional life!
 <div style="display: flex; justify-content: center; gap: 15px;">
     <a href="https://github.com/katkrauczuk">
-        <img height='180em' src="https://github-readme-stats.vercel.app/api?username=katkrauczuk&theme=blue_navy&show_icons=true&include_all_commits=true&count_private=true"/>
-        <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=katkrauczuk&layout=compact&langs_count=16&theme=blue_navy"/> 
+        <img height='180em' src="https://github-readme-stats.vercel.app/api?username=katkrauczuk&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true"/>
+        <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=katkrauczuk&layout=compact&langs_count=16&theme=graywhite"/> 
     </a>
 </div>
 
