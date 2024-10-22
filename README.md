@@ -1,10 +1,23 @@
-## Hi, I'm Kathlin Liege Krauczuk Froelich. Welcome to my professional life!
+## Hi, my name is Kathlin Liege Krauczuk Froelich. Welcome to my professional life!
+<br>
+
+I am a technology enthusiast and am completing my training in Systems Development Analysis, with a specialization in full-stack development. 
+My experience is focused on using tools such as terraform and aws. 
+Today, I work as an infrastructure junior at a healthtech.
+<br><br>
+I'm looking for innovative experiences and partnerships.
 
 
+
+<br>
 <div style="display: flex; justify-content: center; gap: 15px;">
     <a href="https://github.com/katkrauczuk">
         <img height='180em' src="https://github-readme-stats.vercel.app/api?username=katkrauczuk&theme=blue_navy&show_icons=true&include_all_commits=true&count_private=true"/><br><br>
-    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+        <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=katkrauczuk&layout=compact&langs_count=16&theme=blue_navy"/> 
+    </a>
+</div><br>
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <img align="center" alt="Kat-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
     <img align="center" alt="Kat-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />  
     <img align="center" alt="Kat-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
@@ -14,9 +27,6 @@
     <img align="center" alt="Kat-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">        
     <img align="center" alt="Kat-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
     <img align="center" alt="Kat-githubactions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg"> 
-</div><br>
-        <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=katkrauczuk&layout=compact&langs_count=16&theme=blue_navy"/> 
-    </a>
 </div><br>
 
 📱 Folow me:
