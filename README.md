@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kat
   <div>
-    <img height='180em' src="https://github-readme-stats.vercel.app/api?username=katkrauczuk&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height='180em' src="https://github-readme-stats.vercel.app/api?username=katkrauczuk&theme=swift&show_icons=true&include_all_commits=true&count_private=true"/>
 
   </div>
 <!---
