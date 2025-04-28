@@ -1,11 +1,18 @@
 ## Hi, my name is Kathlin Liege Krauczuk Froelich. Welcome to my professional life!
 <br>
-
-I am a technology enthusiast and am completing my training in Systems Development Analysis, with a specialization in full-stack development. 
-My experience is focused on using tools such as terraform and aws. 
-Today, I work as an infrastructure junior at a healthtech.
+Cloud Infrastructure Engineer and Systems Developer with a strong focus on AWS, DevOps, and Infrastructure as Code (IaC), currently designing scalable and cost-efficient cloud solutions at Triágil. Passionate about AI, Data Science, and automation, I bridge the gap between development and operations by building robust, high-performance cloud environments that empower data-driven decision-making and machine learning workflows.
+Key Expertise:
 <br><br>
-I'm looking for innovative experiences and partnerships.
+◾ AI & Data Science Infrastructure – Experience supporting ML pipelines and optimizing infrastructure for big data processing, ensuring high availability and performance for AI-driven applications.
+<br>
+◾ DevOps & CI/CD – Strong background in GitLab CI/CD, GitHub Actions, and IaC (Terraform), automating deployments to accelerate development cycles while maintaining security and reliability.
+<br>
+◾ Cloud & Scalable Systems – Deep knowledge of AWS (EC2, S3, RDS, Lambda, ECS) with a focus on cost optimization, observability (CloudWatch, Prometheus), and containerization (Docker).
+<br>
+◾ Full-Stack Development Insight – Proficient in Python, Go, TypeScript, and SQL, allowing me to collaborate effectively with both data scientists and software engineers to build end-to-end solutions.
+<br><br>
+I believe in the power of collaboration and continuous learning. I am always open to new opportunities that allow me to expand my knowledge and contribute to innovative projects in these areas.
+<br>
 
 
 
