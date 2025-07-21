@@ -3,6 +3,8 @@
 Cloud Infrastructure Engineer and Systems Developer with a strong focus on AWS, DevOps, and Infrastructure as Code (IaC). Currently, I design scalable and cost-efficient cloud solutions at Triágil. Passionate about AI, Data Science, and automation, I bridge the gap between development and operations by building robust, high-performance cloud environments that empower data-driven decision-making and machine learning workflows
 Key Expertise:
 <br><br>
+Key Expertise:
+<br><br>
 ◾ AI & Data Science Infrastructure – Experienced in supporting ML pipelines and optimizing infrastructure for big data processing, ensuring high availability and performance for AI-driven applications.
 <br>
 ◾ DevOps & CI/CD – Strong background in GitLab CI/CD, GitHub Actions, and IaC (Terraform), automating deployments to accelerate development cycles while maintaining security and reliability
