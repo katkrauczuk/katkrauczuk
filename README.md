@@ -1,15 +1,15 @@
 ## Hi, my name is Kathlin Liege Krauczuk Froelich. Welcome to my professional life!
 <br>
-Cloud Infrastructure Engineer and Systems Developer with a strong focus on AWS, DevOps, and Infrastructure as Code (IaC), currently designing scalable and cost-efficient cloud solutions at Triágil. Passionate about AI, Data Science, and automation, I bridge the gap between development and operations by building robust, high-performance cloud environments that empower data-driven decision-making and machine learning workflows.
+Cloud Infrastructure Engineer and Systems Developer with a strong focus on AWS, DevOps, and Infrastructure as Code (IaC). Currently, I design scalable and cost-efficient cloud solutions at Triágil. Passionate about AI, Data Science, and automation, I bridge the gap between development and operations by building robust, high-performance cloud environments that empower data-driven decision-making and machine learning workflows
 Key Expertise:
 <br><br>
-◾ AI & Data Science Infrastructure – Experience supporting ML pipelines and optimizing infrastructure for big data processing, ensuring high availability and performance for AI-driven applications.
+◾ AI & Data Science Infrastructure – Experienced in supporting ML pipelines and optimizing infrastructure for big data processing, ensuring high availability and performance for AI-driven applications.
 <br>
-◾ DevOps & CI/CD – Strong background in GitLab CI/CD, GitHub Actions, and IaC (Terraform), automating deployments to accelerate development cycles while maintaining security and reliability.
+◾ DevOps & CI/CD – Strong background in GitLab CI/CD, GitHub Actions, and IaC (Terraform), automating deployments to accelerate development cycles while maintaining security and reliability
 <br>
 ◾ Cloud & Scalable Systems – Deep knowledge of AWS (EC2, S3, RDS, Lambda, ECS) with a focus on cost optimization, observability (CloudWatch, Prometheus), and containerization (Docker).
 <br>
-◾ Full-Stack Development Insight – Proficient in Python, Go, TypeScript, and SQL, allowing me to collaborate effectively with both data scientists and software engineers to build end-to-end solutions.
+◾ Full-Stack Development Insight – Proficient in Python, Go, TypeScript, and SQL, enabling effective collaboration with both data scientists and software engineers to build end-to-end solutions.
 <br><br>
 I believe in the power of collaboration and continuous learning. I am always open to new opportunities that allow me to expand my knowledge and contribute to innovative projects in these areas.
 <br>
